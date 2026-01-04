@@ -1,0 +1,18 @@
+current directory: /Users/patrickalfeisaebo/Dev/projects/patsabo.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/patrickalfeisaebo/.rubies/ruby-3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/patrickalfeisaebo/Dev/projects/patsabo.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260104-57125-lrhxu3 sitelibdir\=./.gem.20260104-57125-lrhxu3 clean
+
+current directory: /Users/patrickalfeisaebo/Dev/projects/patsabo.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260104-57125-lrhxu3 sitelibdir\=./.gem.20260104-57125-lrhxu3
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/patrickalfeisaebo/Dev/projects/patsabo.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260104-57125-lrhxu3 sitelibdir\=./.gem.20260104-57125-lrhxu3 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260104-57125-lrhxu3/racc
+
+current directory: /Users/patrickalfeisaebo/Dev/projects/patsabo.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260104-57125-lrhxu3 sitelibdir\=./.gem.20260104-57125-lrhxu3 clean
